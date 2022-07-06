@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am primalnotch on github.
+  * I am primalnotch (https://keybase.io/primalnotch) on keybase.
+  * I have a public key ASBuasJJS3-tb7SsH8Rrs5N_alGToFQ2CUQJHlptX4fyTAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206e6ac2494b7fad6fb4ac1fc46bb3937f6a5193a054360944091e5a6d5f87f24c0a",
+      "host": "keybase.io",
+      "kid": "01206e6ac2494b7fad6fb4ac1fc46bb3937f6a5193a054360944091e5a6d5f87f24c0a",
+      "uid": "2a29dc6779e36aadbd0d13e21bd74519",
+      "username": "primalnotch"
+    },
+    "merkle_root": {
+      "ctime": 1657082484,
+      "hash": "0804bc839c854eef7af865e16ca82be276e395591dc6c8ca3824832f112a065a17a59ffbd78abed675d39ecddc8e5283b2dadafb0b67f586a812fc64e0f02eac",
+      "hash_meta": "4f4d1a04810d78e5c7baf8895761976331c2f6912f27aa7cc64daf5ef980b32c",
+      "seqno": 22797011
+    },
+    "service": {
+      "entropy": "lgt+O4shkFndzHIztI130wc8",
+      "name": "github",
+      "username": "primalnotch"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1657082501,
+  "expire_in": 504576000,
+  "prev": "ca834d28ca016e964b93e4755e7a5f69497f5cfc0ffd54c56f97f1219100ae0d",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASBuasJJS3-tb7SsH8Rrs5N_alGToFQ2CUQJHlptX4fyTAo](https://keybase.io/primalnotch), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbmrCSUt/rW+0rB/Ea7OTf2pRk6BUNglECR5abV+H8kwKp3BheWxvYWTESpcCBsQgyoNNKMoBbpZLk+R1XnpfaUl/XPwP/VTFb5fxIZEArg3EIB6smxfk/fzFeQ1ooCaPvCrpKkEusvfJk6NeTL06DtEJAgHCo3NpZ8RASQCiA51xE/KnscQtGXkpmOFemx4f7Rv2f4jhkZY+ksP4xb1ZloTtJGB4Vsd38s676uhtNODMhgjpdRy/4n4AB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA4oljqrFh9g/CB25qiPyBlSWAIQMScXRtF7xwYrVs6to3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/primalnotch
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id primalnotch
+```
